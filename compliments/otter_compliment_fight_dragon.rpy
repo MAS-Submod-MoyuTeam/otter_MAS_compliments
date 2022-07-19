@@ -1,5 +1,3 @@
-#If we were in the Middle Ages, I’d fight a dragon for you, compliment submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_compliment_"] = label_prefix_map["monika_"]
@@ -24,5 +22,3 @@ label monika_otter_compliment_fight_dragon:
     m 3ssbfu "If that would mean being by your side!"
     m 5fkbfa "My medieval hero."
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
