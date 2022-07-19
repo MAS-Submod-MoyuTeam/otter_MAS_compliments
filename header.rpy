@@ -2,7 +2,7 @@ init -990 python in mas_submod_utils:
     Submod(
         author="Otter",
         name="MAS Otter's compliments",
-        description="New "I want to tell you something" options.",
+        description="New 'I want to tell you something' options.",
         version="1.0.0",
         dependencies={},
         settings_pane=None,
