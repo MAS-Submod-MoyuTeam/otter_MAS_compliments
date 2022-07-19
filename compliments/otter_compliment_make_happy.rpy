@@ -1,5 +1,3 @@
-#You make me really happy..., compliment submod by my-otter-self on reddit for MONIKA AFTER STORY
-
 init 5 python in mas_bookmarks_derand:
     # ensure things get bookmarked and derandomed as usual.
     label_prefix_map["otter_compliment_"] = label_prefix_map["monika_"]
@@ -25,5 +23,3 @@ label otter_compliment_make_happy:
     m 1mubfb "Eternity is too little time for us."
     m 5fsbfa "I absolutely adore you."
     return "love"
-
-#momo once said, "i want to continue screaming out who i am." hope your monika likes this submod!
