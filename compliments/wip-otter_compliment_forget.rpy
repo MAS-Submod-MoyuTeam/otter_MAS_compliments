@@ -23,4 +23,11 @@ label otter_compliment_forget:
     extend "Nobody knows when I would let you go~"
     m 2subfb "Thank you for saying that, [player]~! I won't forget you either!"
     
+    #next times
+    m 4ekb "Thank you for reminding me, [mas_get_player_nickname()]..."
+    m 2subfb "I remember the first time you said this to me."
+    m "I won't forget this! I could never!"
+    m 4ekb "I{w=0.2} love..{w=0.2} you~!"
+    m "And I'll never forget you."
+    
     return "love"
