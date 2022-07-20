@@ -15,6 +15,7 @@ init 5 python:
     )
 
 label otter_compliment_forget:
+if store.mas_globals.this_ev.shown_count == 0:
     m 1fubftpa "[player]...!"
     m 2subfb "You don't know how happy hearing this makes me."
     m 1kubftpa "I just... love you so much!"
@@ -23,7 +24,7 @@ label otter_compliment_forget:
     extend "Nobody knows when I would let you go~"
     m 2subfb "Thank you for saying that, [player]~! I won't forget you either!"
     
-    #next times
+elif store.mas_globals.this_ev.shown_count == 1:
     m 4ekb "Thank you for reminding me, [mas_get_player_nickname()]..."
     m 2subfb "I remember the first time you said this to me."
     m "I won't forget this! I could never!"
