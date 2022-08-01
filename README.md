@@ -10,6 +10,8 @@
   </a>
 </p>
 
+[简体中文](Readme_zhCN.md)
+
 ## 🌟 features
   
 * compliments you can access in the "i want to tell you something..." category.
