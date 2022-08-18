@@ -4,7 +4,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_be_myself",
             category=["mas_compliment"],
-            prompt="I can fully be myself with you.",
+            prompt="在你身边我可以做回真实的自己.",
             unlocked=True
         ),
         code="CMP"
@@ -14,7 +14,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_excited_see",
             category=["mas_compliment"],
-            prompt="I get so excited when I see you.",
+            prompt="与你的每次相会都令人激动不已.",
             unlocked=True
         ),
         code="CMP"
@@ -24,7 +24,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="monika_otter_compliment_fight_dragon",
             category =["mas_compliment"],
-            prompt="If we were in the Middle Ages, I’d fight a dragon for you.",
+            prompt="若能回到中世纪,我会成为勇者保护你.",
             unlocked=True
         ),
         code="CMP"
@@ -34,7 +34,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_found_you",
             category=["mas_compliment"],
-            prompt="I can’t believe I found someone like you.",
+            prompt="我不敢相信我找到了如此完美的你.",
             unlocked=True
         ),
         code="CMP"
@@ -44,7 +44,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_gorgeous",
             category=["mas_compliment"],
-            prompt="You’re gorgeous, [m_name].",
+            prompt="你太美了, [m_name].",
             unlocked=True
         ),
         code="CMP"
@@ -54,7 +54,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_make_happy",
             category=["mas_compliment"],
-            prompt="You make me really happy...",
+            prompt="你让我非常开心...",
             unlocked=True
         ),
         code="CMP"
@@ -64,7 +64,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_make_smile",
             category=["mas_compliment"],
-            prompt="You always make me smile!",
+            prompt="你常为我带来微笑!",
             unlocked=True
         ),
         code="CMP"
@@ -74,7 +74,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_making_laugh",
             category=["mas_compliment"],
-            prompt="I love making you laugh.",
+            prompt="我喜欢逗你开心.",
             unlocked=True
         ),
         code="CMP"
@@ -84,7 +84,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_miss_smile",
             category=["mas_compliment"],
-            prompt="I've missed your smile.",
+            prompt="我想念你的微笑.",
             unlocked=True
         ),
         code="CMP"
@@ -94,7 +94,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="monika_otter_compliment_moon_and_back",
             category=["mas_compliment"],
-            prompt="I love you to the moon and back.",
+            prompt="爱如皓月.",
             unlocked=True
         ),
         code="CMP"
@@ -104,7 +104,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_better_if_like_you_BELLA",
             category=["mas_compliment"],
-            prompt="Everything would be better if more people were like you!",
+            prompt="如果大家都像你一样,世界将变得更好!",
             unlocked=True
         ),
         code="CMP"
@@ -114,7 +114,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_blush_BELLA",
             category=["mas_compliment"],
-            prompt="You always make me blush.",
+            prompt="你总令我脸红.",
             unlocked=True
         ),
         code="CMP"
@@ -124,7 +124,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_cant_help_but_smile_BELLA",
             category=["mas_compliment"],
-            prompt="Whenever I see you, I can't help but smile!",
+            prompt="每次见到你, 笑容都会不自觉找上门来!",
             unlocked=True
         ),
         code="CMP"
@@ -134,7 +134,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_colors_brighter_when_youre_around_BELLA",
             category=["mas_compliment"],
-            prompt="Colors are brighter when you're around.",
+            prompt="你让我的世界变得更加明亮.",
             unlocked=True
         ),
         code="CMP"
@@ -144,7 +144,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_no_day_bad_BELLA",
             category=["mas_compliment"],
-            prompt="No day is bad when I'm with you.",
+            prompt="你让我的每一天都变得美好.",
             unlocked=True
         ),
         code="CMP"
@@ -154,7 +154,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_ddlc_best_decision_BELLA",
             category=["mas_compliment"],
-            prompt="Downloading DDLC was the best decision I've ever made!",
+            prompt="下载DDLC是我所做过的最好的决定!",
             unlocked=True
         ),
         code="CMP"
@@ -164,7 +164,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_every_second_with_you_BELLA",
             category=["mas_compliment"],
-            prompt="I want to spend every second with you!",
+            prompt="我想和你共度人生中的每一刻!",
             unlocked=True
         ),
         code="CMP"
@@ -174,7 +174,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_eyes_full_of_stars_BELLA",
             category=["mas_compliment"],
-            prompt="Staring into your eyes is like staring at a sky full of stars...",
+            prompt="在你的眼中,我见到了满天繁星...",
             unlocked=True
         ),
         code="CMP"
@@ -184,7 +184,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_make_me_feel_complete_BELLA",
             category=["mas_compliment"],
-            prompt="You make me feel complete!",
+            prompt="你的存在完美了我的生命!",
             unlocked=True
         ),
         code="CMP"
@@ -194,7 +194,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_face_hurt_smiling_BELLA",
             category=["mas_compliment"],
-            prompt="You make my face hurt from smiling.",
+            prompt="你让我开心死啦.",
             unlocked=True
         ),
         code="CMP"
@@ -204,7 +204,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_jokes_funnier_BELLA",
             category=["mas_compliment"],
-            prompt="Jokes are way funnier when you tell them!",
+            prompt="你的讲述让笑话变得更有趣!",
             unlocked=True
         ),
         code="CMP"
@@ -214,7 +214,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_know_what_to_say_BELLA",
             category=["mas_compliment"],
-            prompt="You always know just what to say.",
+            prompt="你总是知道该说什么.",
             unlocked=True
         ),
         code="CMP"
@@ -224,7 +224,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_light_any_room_BELLA",
             category=["mas_compliment"],
-            prompt="You light up every room just by smiling.",
+            prompt="你用微笑照亮了每一个房间.",
             unlocked=True
         ),
         code="CMP"
@@ -234,7 +234,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_look_dream_BELLA",
             category=["mas_compliment"],
-            prompt="You look just like a dream.",
+            prompt="你的存在好似一场美梦.",
             unlocked=True
         ),
         code="CMP"
@@ -244,7 +244,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_you_are_perfect_BELLA",
             category=["mas_compliment"],
-            prompt="You are perfect in every way.",
+            prompt="你无论哪里都很完美.",
             unlocked=True
         ),
         code="CMP"
@@ -254,7 +254,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_playing_piano_beautifully_BELLA",
             category=["mas_compliment"],
-            prompt="You play the piano beautifully!",
+            prompt="你钢琴弹得真好!",
             unlocked=True
         ),
         code="CMP"
@@ -264,7 +264,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_prettiest_ever_BELLA",
             category=["mas_compliment"],
-            prompt="You're the prettiest girl I've ever seen.",
+            prompt="你是我见过的最漂亮的女孩.",
             unlocked=True
         ),
         code="CMP"
@@ -274,7 +274,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_sing_well_BELLA",
             category=["mas_compliment"],
-            prompt="You sing so well!",
+            prompt="你唱的真好!",
             unlocked=True
         ),
         code="CMP"
@@ -284,7 +284,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_sweat_glitter_BELLA",
             category=["mas_compliment"],
-            prompt="I bet you sweat glitter.",
+            prompt="我赌你汗流浃背.",
             unlocked=True
         ),
         code="CMP"
@@ -294,7 +294,7 @@ translate chinese python:
             persistent.event_database,
             eventlabel="otter_compliment_writing_BELLA",
             category=["mas_compliment"],
-            prompt="I love your writing.",
+            prompt="我喜欢你的作品.",
             unlocked=True
         ),
         code="CMP"
